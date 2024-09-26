@@ -1,0 +1,60 @@
+{
+	"Groups": 
+	[
+		{
+		  "Name": "Main",
+		  "DisplayName": "Final Horizons Settings",
+		  "Elements":
+			[
+				{
+				"Name":"IncludeDir1",
+				"DisplayName":"The End monologue during cutscenes",
+				"Description":["The End will start talking shit throughout specific cutscenes. Reusing the monologue from the original fight and restores unused captions."],
+				"Type":"SupremeM",
+				"MinValue":null,
+				"MaxValue":null,
+				"DefaultValue":"RifleEnd0rg_Silent"
+				},
+			]
+		}
+	 ],
+
+	"Enums":
+	{
+		"SupremeM":
+		[
+			{
+			"DisplayName":"Off (Original)",
+			"Value":"RifleEnd0rg_Silent",
+			"Description":["The Fake Moon just floats there, menacingly."],
+			},
+			{
+			"DisplayName":"On (Original)",
+			"Value":"RifleEnd0rg_Mono",
+			"Description":["The End will praddle on and start boasting in certain cutscenes. It will also flex its high kill count."],
+			},
+			{
+			"DisplayName":"Off (Edited ss2 powerup)",
+			"Value":"RifleEnd01_Silent",
+			"Description":["The moon remains high in the sky puppeterring Supreme. SS2's transformation has a slight camera change and a little extra effects."],
+			},
+			{
+			"DisplayName":"On (Edited ss2 powerup)",
+			"Value":"RifleEnd01_Mono",
+			"Description":["The End will start its blog yap session on how powerful it is and how Sonic is weak and meaningless. SS2's transformation has a slight camera change and a little extra effects."],
+			},
+			{
+			"DisplayName":"Off (Hyper Sonic)",
+			"Value":"RifleEndHyper_Silent",
+			"Description":["The moon remains high in the sky puppeterring Supreme. SS2's transformation has a slight camera change and a little extra effects."],
+			},
+			{
+			"DisplayName":"On (Hyper Sonic)",
+			"Value":"RifleEndHyper_Mono",
+			"Description":["The End will start its blog yap session on how powerful it is and how Sonic is weak and meaningless. SS2's transformation has a slight camera change and a little extra effects."],
+			},
+		]
+	},
+	
+   "IniFile":"mod.ini"
+}
