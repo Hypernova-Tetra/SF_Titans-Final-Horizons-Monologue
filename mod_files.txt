@@ -52,5 +52,5 @@ add RifleEndHyper_Silent/raw/movie/bo6140.usm
 add RifleEndHyper_Silent/raw/movie/bo6160.usm
 add RifleEndHyper_Silent/raw/movie/bo6165.usm
 
-add mod.ini
 add MonologueConfig.json
+add mod.ini
