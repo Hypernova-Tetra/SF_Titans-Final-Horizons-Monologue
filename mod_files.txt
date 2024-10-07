@@ -1,4 +1,13 @@
-add main/movie/zev_sp_riflebeast.usm
+delete RifleEnd0rg_Silent/raw/sound/riflebeast_sound/bgm_boss05.acb
+delete RifleEnd0rg_Silent/raw/sound/riflebeast_sound/bgm_boss05.awb
+
+delete RifleEnd01_Silent/raw/sound/riflebeast_sound/bgm_boss05.acb
+delete RifleEnd01_Silent/raw/sound/riflebeast_sound/bgm_boss05.awb
+
+delete RifleEndHyper_Silent/raw/sound/riflebeast_sound/bgm_boss05.acb
+delete RifleEndHyper_Silent/raw/sound/riflebeast_sound/bgm_boss05.awb
+
+add main/raw/movie/zev_sp_riflebeast.usm
 
 add RifleEnd0rg_Mono/raw/event/scene/bo6xxx.pac
 add RifleEnd0rg_Mono/raw/event/scene/zev_sp_riflebeast.pac
@@ -56,15 +65,6 @@ add RifleEndHyper_Silent/raw/movie/bo6140.usm
 add RifleEndHyper_Silent/raw/movie/bo6160.usm
 add RifleEndHyper_Silent/raw/movie/bo6165.usm
 add RifleEndHyper_Silent/raw/movie/bo6190.usm
-
-delete RifleEnd0rg_Silent/raw/sound/riflebeast_sound/bgm_boss05.acb
-delete RifleEnd0rg_Silent/raw/sound/riflebeast_sound/bgm_boss05.awb
-
-delete RifleEnd01_Silent/raw/sound/riflebeast_sound/bgm_boss05.acb
-delete RifleEnd01_Silent/raw/sound/riflebeast_sound/bgm_boss05.awb
-
-delete RifleEndHyper_Silent/raw/sound/riflebeast_sound/bgm_boss05.acb
-delete RifleEndHyper_Silent/raw/sound/riflebeast_sound/bgm_boss05.awb
 
 add MonologueConfig.json
 
