@@ -7,7 +7,7 @@ delete RifleEnd01_Silent/raw/sound/riflebeast_sound/bgm_boss05.awb
 delete RifleEndHyper_Silent/raw/sound/riflebeast_sound/bgm_boss05.acb
 delete RifleEndHyper_Silent/raw/sound/riflebeast_sound/bgm_boss05.awb
 
-add main/raw/movie/zev_sp_riflebeast.usm
+add Main/raw/movie/zev_sp_riflebeast.usm
 
 add RifleEnd0rg_Mono/raw/event/scene/bo6xxx.pac
 add RifleEnd0rg_Mono/raw/event/scene/zev_sp_riflebeast.pac
