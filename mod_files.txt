@@ -16,6 +16,7 @@ add RifleEnd0rg_Mono/raw/movie/bo6120.usm
 add RifleEnd0rg_Mono/raw/movie/bo6140.usm
 add RifleEnd0rg_Mono/raw/movie/bo6160.usm
 add RifleEnd0rg_Mono/raw/movie/bo6165.usm
+add RifleEnd0rg_Mono/raw/movie/bo6190.usm
 add RifleEnd0rg_Mono/raw/sound/riflebeast_sound/bgm_boss05.acb
 add RifleEnd0rg_Mono/raw/sound/riflebeast_sound/bgm_boss05.awb
 
@@ -35,6 +36,7 @@ add RifleEnd01_Mono/raw/movie/bo6120.usm
 add RifleEnd01_Mono/raw/movie/bo6140.usm
 add RifleEnd01_Mono/raw/movie/bo6160.usm
 add RifleEnd01_Mono/raw/movie/bo6165.usm
+add RifleEnd01_Mono/raw/movie/bo6190.usm
 add RifleEnd01_Mono/raw/sound/riflebeast_sound/bgm_boss05.acb
 add RifleEnd01_Mono/raw/sound/riflebeast_sound/bgm_boss05.awb
 
@@ -54,6 +56,7 @@ add RifleEndHyper_Mono/raw/movie/bo6120.usm
 add RifleEndHyper_Mono/raw/movie/bo6140.usm
 add RifleEndHyper_Mono/raw/movie/bo6160.usm
 add RifleEndHyper_Mono/raw/movie/bo6165.usm
+add RifleEndHyper_Mono/raw/movie/bo6190.usm
 add RifleEndHyper_Mono/raw/sound/riflebeast_sound/bgm_boss05.acb
 add RifleEndHyper_Mono/raw/sound/riflebeast_sound/bgm_boss05.awb
 
