@@ -1,3 +1,9 @@
+## Final Horizons Monologue V1.0.4
+- Updated "Zev_Sp_Riflebeast.pac" in certain locations.
+- Added "Zev_Sp_Riflebeast.usm" in all "RifleEnd" subdirectories
+- "Zev_Sp_Riflebeast.pac" in the "RifleEndHyper" has a new animation.
+- Removed "Zev_Sp_riflebeast.usm" from the Main directory due to updates.
+
 ## Final Horizons Monologue V1.0.3
 - Fixed problems in regards to The End remaining silent while subtitles are active if the monologue setting is set to "on" for specific SS2 skin mods.
 

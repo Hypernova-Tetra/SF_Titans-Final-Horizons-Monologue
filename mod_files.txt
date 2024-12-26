@@ -7,7 +7,7 @@ delete RifleEnd01_Silent/raw/sound/riflebeast_sound/bgm_boss05.awb
 delete RifleEndHyper_Silent/raw/sound/riflebeast_sound/bgm_boss05.acb
 delete RifleEndHyper_Silent/raw/sound/riflebeast_sound/bgm_boss05.awb
 
-add Main/raw/movie/zev_sp_riflebeast.usm
+delete Main/raw/movie/zev_sp_riflebeast.usm
 
 add RifleEnd0rg_Mono/raw/event/scene/bo6xxx.pac
 add RifleEnd0rg_Mono/raw/event/scene/zev_sp_riflebeast.pac
@@ -28,6 +28,7 @@ add RifleEnd0rg_Silent/raw/movie/bo6140.usm
 add RifleEnd0rg_Silent/raw/movie/bo6160.usm
 add RifleEnd0rg_Silent/raw/movie/bo6165.usm
 add RifleEnd0rg_Silent/raw/movie/bo6190.usm
+add RifleEnd0rg_Silent/raw/movie/zev_sp_riflebeast.usm
 
 add RifleEnd01_Mono/raw/event/scene/bo6xxx.pac
 add RifleEnd01_Mono/raw/event/scene/zev_sp_riflebeast.pac
@@ -37,6 +38,7 @@ add RifleEnd01_Mono/raw/movie/bo6140.usm
 add RifleEnd01_Mono/raw/movie/bo6160.usm
 add RifleEnd01_Mono/raw/movie/bo6165.usm
 add RifleEnd01_Mono/raw/movie/bo6190.usm
+add RifleEnd01_Mono/raw/movie/zev_sp_riflebeast.usm
 add RifleEnd01_Mono/raw/sound/riflebeast_sound/bgm_boss05.acb
 add RifleEnd01_Mono/raw/sound/riflebeast_sound/bgm_boss05.awb
 
@@ -48,6 +50,7 @@ add RifleEnd01_Silent/raw/movie/bo6140.usm
 add RifleEnd01_Silent/raw/movie/bo6160.usm
 add RifleEnd01_Silent/raw/movie/bo6165.usm
 add RifleEnd01_Silent/raw/movie/bo6190.usm
+add RifleEnd01_Silent/raw/movie/zev_sp_riflebeast.usm
 
 add RifleEndHyper_Mono/raw/event/scene/bo6xxx.pac
 add RifleEndHyper_Mono/raw/event/scene/zev_sp_riflebeast.pac
@@ -57,6 +60,7 @@ add RifleEndHyper_Mono/raw/movie/bo6140.usm
 add RifleEndHyper_Mono/raw/movie/bo6160.usm
 add RifleEndHyper_Mono/raw/movie/bo6165.usm
 add RifleEndHyper_Mono/raw/movie/bo6190.usm
+add RifleEndHyper_Mono/raw/movie/zev_sp_riflebeast.usm
 add RifleEndHyper_Mono/raw/sound/riflebeast_sound/bgm_boss05.acb
 add RifleEndHyper_Mono/raw/sound/riflebeast_sound/bgm_boss05.awb
 
@@ -68,6 +72,7 @@ add RifleEndHyper_Silent/raw/movie/bo6140.usm
 add RifleEndHyper_Silent/raw/movie/bo6160.usm
 add RifleEndHyper_Silent/raw/movie/bo6165.usm
 add RifleEndHyper_Silent/raw/movie/bo6190.usm
+add RifleEndHyper_Silent/raw/movie/zev_sp_riflebeast.usm
 
 add MonologueConfig.json
 
