@@ -1,4 +1,4 @@
-## Final Horizons Monologue V1.0.0
+## Final Horizons Monologue V1.0 R1
 - Public Release
 
 ## Final Horizons Monologue Pre-Release u4
