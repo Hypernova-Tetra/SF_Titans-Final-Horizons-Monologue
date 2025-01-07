@@ -1,11 +1,11 @@
-## Final Horizons Monologue V1.0 R1
+## Final Horizons Monologue V1.00_r00
 - Public Release
 
 ## Final Horizons Monologue Pre-Release u4
 - Updated "Zev_Sp_Riflebeast.pac" in certain locations.
 - Added "Zev_Sp_Riflebeast.usm" in all "RifleEnd" subdirectories
 - "Zev_Sp_Riflebeast.pac" in the "RifleEndHyper" has a new animation.
-- Removed "Zev_Sp_riflebeast.usm" from the Main directory due to updates.
+- Removed "Zev_Sp_riflebeast.usm" from the "/main" directory due to updated versions in "Aggro_Titans" Mod
 
 ## Final Horizons Monologue Pre-Release u3
 - Fixed problems in regards to The End remaining silent while subtitles are active if the monologue setting is set to "on" for specific SS2 skin mods.
