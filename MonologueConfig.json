@@ -24,19 +24,14 @@
 		"SupremeM":
 		[
 			{
-			"DisplayName":"Original ss2 powerup",
-			"Value":"RifleEnd0rg_Mono",
-			"Description":["The End will praddle on and start boasting in certain cutscenes. It will also flex its high kill count."],
-			},
-			{
-			"DisplayName":"Edited ss2 powerup",
+			"DisplayName":"SuperSonic2",
 			"Value":"RifleEnd01_Mono",
-			"Description":["The End will start its blog yap session on how powerful it is and how Sonic is weak and meaningless. SS2's transformation has a slight camera change and a little extra effects."],
+			"Description":["The End will start its blog yap session on how powerful it is and how Sonic is weak and meaningless. SS2's transformation shots are slightly different here."],
 			},
 			{
 			"DisplayName":"Hyper Sonic",
 			"Value":"RifleEndHyper_Mono",
-			"Description":["The End will start its blog yap session on how powerful it is and how Sonic is weak and meaningless. SS2's transformation has a slight camera change and a little extra effects."],
+			"Description":["The End will start its blog yap session on how powerful it is and how Sonic is weak and meaningless. SS2's transformation for this skin option utilizes SuperSonicCyber's effects."],
 			},
 		]
 	},

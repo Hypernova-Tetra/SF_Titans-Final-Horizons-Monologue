@@ -1,8 +1,8 @@
-## Final Horizons Monologue V1_r05
+## Final Horizons Monologue V1_r05+
 - Public Release
 
 ## Final Horizons Monologue Pre-Release u5
-- Deleted files related to the "RifleEnd_Silent" directories.
+- Deleted files related to the "RifleEnd_Silent" and "RifleEnd0rg_Mono" directories.
 
 ## Final Horizons Monologue Pre-Release u4
 - Updated "Zev_Sp_Riflebeast.pac" in certain locations.
