@@ -1,5 +1,5 @@
-## Final Horizons Monologue Release 1.14
-- Public Release
+## Final Horizons Monologue v1.0
+- Public Release (January 15)
 
 ## Final Horizons Monologue Pre-Release u5
 - Deleted files related to the "RifleEnd_Silent" and "RifleEnd0rg_Mono" directories.
